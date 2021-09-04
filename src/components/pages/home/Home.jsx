@@ -1,4 +1,3 @@
-import { Data } from "../../Data/Data";
 import { Header } from "../../Header/Header";
 import { Posts } from "../../Posts/Posts";
 import { Sidebar } from "../../Sidebar/Sidebar";
