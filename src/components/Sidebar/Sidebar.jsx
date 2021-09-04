@@ -6,6 +6,7 @@ export const Sidebar = () => {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
+          className="sidebarImg"
           src="https://cdn.pixabay.com/photo/2021/08/22/15/39/kid-6565461__340.jpg"
           alt="profile"
         />

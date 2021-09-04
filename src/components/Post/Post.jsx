@@ -19,6 +19,14 @@ export default function Post() {
         nulla voluptatum aliquid sint odit mollitia fugiat beatae! Explicabo
         numquam debitis vel, esse natus corporis error officia repudiandae.
         Amet!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est in fuga
+        nulla voluptatum aliquid sint odit mollitia fugiat beatae! Explicabo
+        numquam debitis vel, esse natus corporis error officia repudiandae.
+        Amet!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est in fuga
+        nulla voluptatum aliquid sint odit mollitia fugiat beatae! Explicabo
+        numquam debitis vel, esse natus corporis error officia repudiandae.
+        Amet!
       </p>
     </div>
   );
