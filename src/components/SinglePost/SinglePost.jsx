@@ -19,7 +19,7 @@ const SinglePost = () => {
           </span>
           <span className="singlePostDate">1 hour ago</span>
         </div>
-        <p>
+        <p className="singlePostDesc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
           sapiente eveniet modi? Fuga, sit. Facere, rerum ut, delectus officia
           alias beatae minus dicta sed aliquid vero quo voluptatem blanditiis
