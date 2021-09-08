@@ -1,10 +1,9 @@
-import "./sidebar.css";
+import "./sidebar.css"
 
-
-export default function Sidebar() {
+const Sidebar = () => {
   return (
     <div className="sidebar">
-    <div className="sidebarItem">
+      <div className="sidebarItem">
       <span className="sidebarTitle">ABOUT ME</span>
       <img
         className="sidebarImg"
@@ -36,6 +35,8 @@ export default function Sidebar() {
         <i className="sidebarIcon fab fa-instagram"></i>
       </div>
     </div>
-  </div>
+    </div>
   )
 }
+
+export default Sidebar

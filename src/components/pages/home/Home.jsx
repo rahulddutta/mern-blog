@@ -1,6 +1,6 @@
 import { Header } from "../../Header/Header";
 import { Posts } from "../../Posts/Posts";
-import { Sidebar } from "../../Sidebar/Sidebar";
+import Sidebar from "../../Sidebar/Sidebar";
 import "./home.css";
 
 export const Home = () => {
@@ -9,7 +9,7 @@ export const Home = () => {
       <Header />
       <div className="home">
         <Posts />
-        <Sidebar />
+        <Sidebar/>
       </div>
     </>
   );
